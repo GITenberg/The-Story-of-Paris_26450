@@ -1,0 +1,39 @@
+_repo: The-Story-of-Paris_26450
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kimball, Katharine
+    aliases:
+    - Kimball, Katherine
+    - Kimball, K.
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '42689'
+    url: http://www.gutenberg.org/2009/agents/42689
+covers:
+- cover_type: archival
+  image_path: 26450-h/images/cover-b.jpg
+creator:
+  author:
+    agent_name: Okey, Thomas
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '32019'
+    url: http://www.gutenberg.org/2009/agents/32019
+description: ''
+gutenberg_bookshelf: Mediæval Town Series
+gutenberg_issued: '2008-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Mediæval town series
+subjects:
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- History'
+- !lcsh 'Paris (France) -- Description and travel'
+title: The Story of Paris
+url: http://www.gutenberg.org/ebooks/26450
